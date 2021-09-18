@@ -146,17 +146,17 @@ label {
 	font-weight: 400;
 }
 *::-moz-selection {
-	background: #d53863;
+	background: #7099c8;
 	color: #fff;
 	text-shadow: none;
 }
 ::-moz-selection {
-	background: #d53863;
+	background: #7099c8;
 	color: #fff;
 	text-shadow: none;
 }
 ::selection {
-	background: #d53863;
+	background: #7099c8;
 	color: #fff;
 	text-shadow: none;
 }
@@ -254,7 +254,7 @@ label {
 }
 .btn.transparent-btn:hover {
     color: #fff;
-    border-color: #d53863;
+    border-color: #7099c8;
 }
 .btn.white-btn {
     background: #fff;
@@ -335,7 +335,7 @@ label {
 .rp-content h4 a:hover,
 .comment-text .avatar-name .comment-reply:hover,
 .comment-form .comment-field i {
-	color: #d53863;
+	color: #7099c8;
 }
 
 /* All Background */
@@ -380,7 +380,7 @@ label {
 .widget-tag ul li a:hover,
 .blog-details-content blockquote,
 .d-post-tag ul li a:hover {
-	background: #d53863;
+	background: #7099c8;
 }
 
 
@@ -544,7 +544,7 @@ label {
 	z-index: 9;
 	opacity: 0;
 	visibility: hidden;
-	border-top: 2px solid #d53863;
+	border-top: 2px solid #7099c8;
 	padding: 5px 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
@@ -1118,7 +1118,7 @@ label {
     background: #fff;
     box-shadow: 0px 8px 16px 0px rgba(213, 56, 99, 0.06);
     padding: 75px 80px;
-    border-bottom: 4px solid #d53863;
+    border-bottom: 4px solid #7099c8;
 }
 .breadcrumb-content .title {
     font-size: 72px;
@@ -1322,7 +1322,7 @@ label {
 .banner-style-two .banner-content {
     box-shadow: 0px 8px 16px 0px rgba(213, 56, 99, 0.06);
     background: #fff;
-    border-bottom: 4px solid #d53863;
+    border-bottom: 4px solid #7099c8;
     padding: 65px 80px 75px 80px;
     margin-left: -80px;
 }
@@ -1904,7 +1904,7 @@ label {
 	height: 0;
 	border-style: solid;
 	border-width: 0 10px 10px 0;
-	border-color: transparent #d53863 transparent transparent;
+	border-color: transparent #7099c8 transparent transparent;
 }
 .skill-area {
 	position: relative;
@@ -1998,7 +1998,7 @@ label {
     z-index: -1;
 }
 .skill-bg .white-title .title-paragraph {
-    border-color: #d53863;
+    border-color: #7099c8;
     color: #d3dcff;
 }
 
@@ -2325,7 +2325,7 @@ label {
     width: 50px;
     text-align: center;
     line-height: 50px;
-    background: #d53863;
+    background: #7099c8;
     font-size: 16px;
     color: #fff;
     opacity: 0;
@@ -2621,7 +2621,7 @@ label {
 .cta-form-two .form-grp i {
     position: absolute;
     left: 40px;
-    color: #d53863;
+    color: #7099c8;
     font-size: 16px;
     top: 22px;
 }
@@ -3015,7 +3015,7 @@ label {
     line-height: 40px;
     background: #fff1f4;
     font-size: 18px;
-    color: #d53863;
+    color: #7099c8;
     flex: 0 0 40px;
     margin-right: 20px;
 }
@@ -3220,7 +3220,7 @@ label {
     height: 0;
     border-style: solid;
     border-width: 0 10px 10px 0;
-    border-color: transparent #d53863 transparent transparent;
+    border-color: transparent #7099c8 transparent transparent;
 }
 .blog-post-content {
     padding: 40px 50px;
@@ -3988,7 +3988,7 @@ label {
 .comment-form .btn {
     border-radius: 0;
     margin-top: 10px;
-    background: #d53863;
+    background: #7099c8;
     padding: 21px 40px 21px 40px;
 }
 .comment-form .btn i {
@@ -4021,7 +4021,7 @@ label {
 .pagination-wrap ul li a:hover,
 .pagination-wrap ul li.active a {
     color: #fff;
-    border-color: #d53863;
+    border-color: #7099c8;
 }
 .pagination-wrap ul li.prv-next a,
 .pagination-wrap ul li.prv-right a {
@@ -4240,14 +4240,14 @@ label {
     font-size: 14px;
 }
 .contact-info-area .row [class*="col-"]:nth-child(2) .contact-info-box-head {
-    background: #d53863;
+    background: #7099c8;
 }
 .contact-info-area .row [class*="col-"]:nth-child(2) .contact-info-box-head span,
 .contact-info-area .row [class*="col-"]:nth-child(3) .contact-info-box-head span {
     color: #fff;
 }
 .contact-info-area .row [class*="col-"]:nth-child(2) .contact-info-box-content li i {
-    color: #d53863;
+    color: #7099c8;
 }
 .contact-info-area .row [class*="col-"]:nth-child(3) .contact-info-box-head {
     background: #3ea470;
